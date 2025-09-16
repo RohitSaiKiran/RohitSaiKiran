@@ -14,7 +14,7 @@ With dual graduate certificates in **Artificial Intelligence (Georgian College)*
 ## Highlights  
 - **Georgian Scholar (Honors)** – GPA 88.79 (Artificial Intelligence)  
 - Ranked in the **Top 10%** of my cohort at Georgian College (AI Program)  
-- **Distinction** – GPA 3.78 (Business Analytics)  
+- **Distinction** – GPA 3.78 / 4 (Business Analytics)  
 - Built hands-on AI/ML projects in **Computer Vision, Neural Networks, and Churn Prediction**  
 - Dual background in **AI Engineering + Business Analytics** = technical + strategic edge  
 

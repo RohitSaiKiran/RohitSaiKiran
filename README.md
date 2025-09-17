@@ -24,7 +24,7 @@ With dual graduate certificates in **Artificial Intelligence (Georgian College)*
 
 ### [Customer Churn Prediction](https://github.com/RohitSaiKiran/Predicting-Customer-Churn-XGBoost-CatBoost)   
 **Why it matters:** Every lost customer costs 5x more to replace than to retain.  
-**Impact:** Achieved Achieved ~77% accuracy, ROC AUC ~0.83, and recall ~0.71 | Identified contract type, billing method, and pricing as key churn drivers.  
+**Impact:** Achieved ~77% accuracy, ROC AUC ~0.83, and recall ~0.71 | Identified contract type, billing method, and pricing as key churn drivers.  
 **Stack:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, Seaborn  
 
 ---
